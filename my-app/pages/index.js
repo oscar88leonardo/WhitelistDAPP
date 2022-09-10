@@ -200,7 +200,8 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to Mental Hub!</h1>
           <div className={styles.description}>
-            Its an NFT collection to help with your mental health.
+            Some NFT collections to help with your mental health <br />
+            Provided by the best healthcare professionals.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
